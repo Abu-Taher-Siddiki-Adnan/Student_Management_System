@@ -1,2 +1,2 @@
 ﻿# Student_Management_System
-Assalamu Alaikum. This is my second project. 
+Assalamu Alaikum. This is my first project. 
